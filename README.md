@@ -3,7 +3,7 @@
 ## the week of 03/30/25 :
 - think of using NixOS for my personal computer and hnf's webserver and hnf's database.
 - think of doing tchouva by wearing tzitzit (in rembrance for shabbat) (with trelet) and by being more serious on shabbat.
-- hnf : switching back to salvo.rs for two reasons, 1. xitca-web actually uses unsafe codes through "unsafe_collection"; 2. xitca-web, unlike salvo.rs, has dependencies which could potentially lead to supply chain attacks which is dangerous if the dependencies have not been checked before use.
+- hnf : switching back to salvo.rs for two reasons, 1. xitca-web actually uses unsafe codes through "unsafe_collection"; 2. xitca-web, unlike salvo.rs, has dependencies which could potentially lead to supply chain attacks which is dangerous if the dependencies have not been checked before use (and I don't have the time to check them at the moment).
 
 ## the week of 03/23/25 :
 - week ended with a perfect (phone and computer off ; only eating, sleeping, reading (without writing) and praying) shabbat (for example here is a [a picture of the food](metada/3-23-25-week_perfect_shabbat.jpg))
