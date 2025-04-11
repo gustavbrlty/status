@@ -1,5 +1,8 @@
 # status
 
+## the week of 04/06/25 :
+- seeing the [complexity of correctly using HTTP3](https://www.smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/#alt-svc), I've chosen to make it available **later**.
+
 ## the week of 03/30/25 :
 - think of using NixOS for my personal computer and hnf's webserver and hnf's database.
 - think of doing tchouva by wearing tzitzit (in rembrance for shabbat) (with trelet) and by being more serious on shabbat.
