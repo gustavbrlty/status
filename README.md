@@ -1,5 +1,7 @@
 # status
 
+- conference concerning supply chain attack, https://www.youtube.com/watch?v=DLWrax4Coiw
+
 ## the week of 04/06/25 :
 - seeing the [complexity of correctly using HTTP3](https://www.smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/#alt-svc), I've chosen to make it available **later**.
 
